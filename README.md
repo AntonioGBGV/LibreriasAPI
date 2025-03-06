@@ -5,5 +5,10 @@ Aplicación para la gestión de Librerias. Por libros y autor. Sin entorno gráf
 - Java (Spring Boot, Hibernate)
 - MySQL
 
-## Desarrollador
-Antonio Garijo Blanco
+## ✍️ Autor
+
+**Antonio Garijo Blanco**  
+📍 Madrid, España  
+📧 [a.garijo.blanco@gmail.com](mailto:a.garijo.blanco@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/antonio-garijo-blanco)  
+💻 [GitHub](https://github.com/AntonioGBGV)  
